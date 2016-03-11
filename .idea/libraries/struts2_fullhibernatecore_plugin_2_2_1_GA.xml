@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="struts2-fullhibernatecore-plugin-2.2.1-GA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/struts2-fullhibernatecore-plugin-2.2.1-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
